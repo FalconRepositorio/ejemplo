@@ -1,3 +1,7 @@
 original
+<<<<<<< HEAD
 esto es lo nuevo xxx
 esto es lo nuevo2 xxx
+=======
+nuevoooooooooooooo
+>>>>>>> prueba
